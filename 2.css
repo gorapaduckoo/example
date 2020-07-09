@@ -1,0 +1,126 @@
+.mediaViewInfo {
+	--web-view-name: 웹 1920 – 3;
+	--web-view-id: _1920__3;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: _1920__3;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#_1920__3 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	overflow: hidden;
+	cursor: pointer;
+	--web-view-name: 웹 1920 – 3;
+	--web-view-id: _1920__3;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+#ID9F4yD3c {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#TAEYEON {
+	left: 90px;
+	top: 199px;
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#ic_fast_rewind_24px {
+	fill: rgba(255,255,255,1);
+}
+.ic_fast_rewind_24px {
+	overflow: visible;
+	position: absolute;
+	width: 40.162px;
+	height: 27.54px;
+	left: 140px;
+	top: 590px;
+	transform: matrix(1,0,0,1,0,0);
+	transition: all 1s ease-in-out;
+	--web-animation: fadein 1s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: 3.html;
+	cursor: pointer;
+}
+#ic_fast_forward_24px {
+	fill: rgba(255,255,255,1);
+}
+.ic_fast_forward_24px {
+	overflow: visible;
+	position: absolute;
+	width: 40.162px;
+	height: 27.54px;
+	left: 253.81px;
+	top: 590px;
+	transform: matrix(1,0,0,1,0,0);
+	transition: all 1s ease-in-out;
+	--web-animation: fadein 1s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: 3.html;
+	cursor: pointer;
+}
+#ic_pause_24px {
+	position: absolute;
+	width: 23.605px;
+	height: 27.54px;
+	left: 205.191px;
+	top: 590px;
+	overflow: visible;
+	--web-animation: fadein 0.2s linear;
+	--web-action-type: page;
+	--web-action-target: 1.html;
+	cursor: pointer;
+}
+#ic_pause_24px_n {
+	fill: rgba(255,255,255,1);
+}
+.ic_pause_24px_n {
+	overflow: visible;
+	position: absolute;
+	width: 23.605px;
+	height: 27.54px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

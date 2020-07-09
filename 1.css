@@ -1,0 +1,391 @@
+.mediaViewInfo {
+	--web-view-name: 웹 1920 – 1;
+	--web-view-id: _1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: _1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 웹 1920 – 1;
+	--web-view-id: _1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#_2 {
+	fill: rgba(85,85,85,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._2 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 642px;
+	left: 0px;
+	top: 0px;
+}
+#_1 {
+	position: absolute;
+	width: 217px;
+	height: 343px;
+	left: 90px;
+	top: 677px;
+	overflow: visible;
+}
+#image_readtop_2020_465868_1588 {
+	position: absolute;
+	width: 217px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#IU_-_eight__ProdFeat_SUGA {
+	left: 0px;
+	top: 249px;
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#__SUGA__SUGA_ {
+	left: 0px;
+	top: 301px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(121,121,121,1);
+}
+#_2_ {
+	position: absolute;
+	width: 217px;
+	height: 343px;
+	left: 354px;
+	top: 677px;
+	overflow: visible;
+}
+#htm_201910211006292120 {
+	position: absolute;
+	width: 217px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#IU_-_Blueming {
+	left: 0px;
+	top: 249px;
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#_____ {
+	left: 0px;
+	top: 301px;
+	position: absolute;
+	overflow: visible;
+	width: 213px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(121,121,121,1);
+}
+#_3 {
+	position: absolute;
+	width: 217px;
+	height: 343px;
+	left: 618px;
+	top: 677px;
+	overflow: visible;
+}
+#htm_201910211006292120_ {
+	position: absolute;
+	width: 217px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#IU_-_Love_poem {
+	left: 0px;
+	top: 249px;
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#___ {
+	left: 0px;
+	top: 301px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(121,121,121,1);
+}
+#_4 {
+	position: absolute;
+	width: 245px;
+	height: 364px;
+	left: 1613px;
+	top: 677px;
+	overflow: visible;
+}
+#unnamed_1 {
+	position: absolute;
+	width: 217px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#_-_Spark {
+	left: 0px;
+	top: 249px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#_kenzie__kenzie_Anne_Judith_Wi {
+	left: 0px;
+	top: 301px;
+	position: absolute;
+	overflow: visible;
+	width: 246px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(121,121,121,1);
+}
+#_5 {
+	position: absolute;
+	width: 253px;
+	height: 364px;
+	left: 1313px;
+	top: 677px;
+	overflow: visible;
+}
+#TAEYEON_Single_Four_Seasons_CO {
+	position: absolute;
+	width: 217px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#_-_ {
+	left: 0px;
+	top: 249px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#_kenzie__Josh_Cumbee_Afshin_Sa {
+	left: 0px;
+	top: 301px;
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(121,121,121,1);
+}
+#_6 {
+	position: absolute;
+	width: 217px;
+	height: 343px;
+	left: 1049px;
+	top: 677px;
+	overflow: visible;
+}
+#EXKZf_sVcAA7Bah {
+	position: absolute;
+	width: 217px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#_-_Happy {
+	left: 0px;
+	top: 249px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#___Chris_Wahle {
+	left: 0px;
+	top: 301px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(121,121,121,1);
+}
+#______bn {
+	left: 90px;
+	top: 199px;
+	position: absolute;
+	overflow: visible;
+	width: 762px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#______ {
+	left: 90px;
+	top: 199px;
+	position: absolute;
+	overflow: visible;
+	width: 762px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Playlist {
+	left: 896px;
+	top: 771px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumGothicOTF;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#__3__3 {
+	position: absolute;
+	width: 27px;
+	height: 31px;
+	left: 933px;
+	top: 818px;
+	overflow: visible;
+	transition: all 0.2s ease-in-out;
+	--web-animation: fadein 0.2s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: 3.html;
+	cursor: pointer;
+}
+#_3_br {
+	fill: rgba(0,0,0,1);
+}
+._3_br {
+	overflow: hidden;
+	position: absolute;
+	width: 31px;
+	height: 27px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-2,2) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
